@@ -1,3 +1,5 @@
 name = input("Enter your name: ")
 print('Hello', name)
 print("My first github practice")
+print("Git prctice Day2")
+print("Learning GitHub every day!")
