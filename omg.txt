@@ -1,0 +1,3 @@
+Name: Prerna
+Learning: Python and Git
+Goal: Become strong in AI and ML
