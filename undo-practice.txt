@@ -1,1 +1,3 @@
 I am practicing how to undo Git commits.
+I am practicing how to undo Git commits.
+This is a mistake that I want to remove.
