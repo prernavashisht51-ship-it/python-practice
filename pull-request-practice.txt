@@ -1,0 +1,2 @@
+I am learning how Pull Requests work on GitHub.
+Pull Requests allow developers to review code before merging it.
