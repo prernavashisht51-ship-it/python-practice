@@ -1,0 +1,4 @@
+1. Master Python
+2. Solve LeetCode regularly
+3. Crack GATE
+4. Pursue M.Tech in AI/ML
