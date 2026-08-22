@@ -1,0 +1,3 @@
+Name: Prerna Vashisht
+College: B.Tech CSE
+Interests: Python, DSA, AI/ML
